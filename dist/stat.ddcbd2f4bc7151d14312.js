@@ -15,7 +15,7 @@
   \***************************/
 /***/ (() => {
 
-eval("function createStatistics() {\r\n    let counter = 0\r\n    let isDestroyed = false\r\n    const listener = () => counter++\r\n\r\n    document.addEventListener('click', listener)\r\n\r\n    return {\r\n        destroy() {\r\n            document.removeEventListener('click', listener)\r\n            isDestroyed = true\r\n            return 'Statistics fully destroyed!!!'\r\n        },\r\n        getClicks() {\r\n            if (isDestroyed) return 'Statistics is destroyed!!!'\r\n            \r\n            return counter\r\n        }\r\n    }\r\n}\r\nwindow.statistics = createStatistics()\n\n//# sourceURL=webpack://home_work_34_js/./src/statistics.js?");
+eval("function createStatistics() {\r\n    let counter = 0\r\n    let isDestroyed = false\r\n    const listener = () => counter++\r\n\r\n    document.addEventListener('click', listener)\r\n\r\n    return {\r\n        destroy() {\r\n            document.removeEventListener('click', listener)\r\n            isDestroyed = true\r\n            return 'Statistics fully destroyed'\r\n        },\r\n        getClicks() {\r\n            if (isDestroyed) return 'Statistics is destroyed'\r\n            \r\n            return counter\r\n        }\r\n    }\r\n}\r\nwindow.statistics = createStatistics()\n\n//# sourceURL=webpack://home_work_34_js/./src/statistics.js?");
 
 /***/ })
 

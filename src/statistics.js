@@ -9,10 +9,10 @@ function createStatistics() {
         destroy() {
             document.removeEventListener('click', listener)
             isDestroyed = true
-            return 'Statistics fully destroyed!!!'
+            return 'Statistics fully destroyed'
         },
         getClicks() {
-            if (isDestroyed) return 'Statistics is destroyed!!!'
+            if (isDestroyed) return 'Statistics is destroyed'
             
             return counter
         }
