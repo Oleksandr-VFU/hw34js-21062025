@@ -15,8 +15,20 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-        template: 'src/index.html'
+        template: 'index.html'
     }),
     new CleanWebpackPlugin()
-  ]
+  ],
+  module: {
+    rules: [
+      {
+        test: /\.css$/i,
+        use: ['style-loader', 'css-loader']
+      },
+      {
+        test: /\.(png|svg|jpg|jpeg)$/i,
+        type: 'asset/resource'
+      }
+    ]
+  }
 }

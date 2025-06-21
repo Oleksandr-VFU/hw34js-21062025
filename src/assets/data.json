@@ -1,0 +1,22 @@
+{
+    "firstName": "Олександр",
+    "lastName": "Іваненко",
+    "age": 28,
+    "gender": "чоловік",
+    "email": "ivanenko@example.com",
+    "phone": "+380991234567",
+    "address": {
+        "city": "Київ",
+        "street": "вул. Хрещатик",
+        "building": "12А",
+        "apartment": 45,
+        "postalCode": "01001"
+    },
+    "hobbies": ["читання", "футбол", "подорожі"],
+    "isEmployed": true,
+    "skills": [
+        "JavaScript",
+        "HTML",
+        "CSS"
+    ]
+}
