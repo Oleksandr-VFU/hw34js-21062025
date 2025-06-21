@@ -1,12 +1,13 @@
 const path = require('node:path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
-const { CleanWebpackPlugin }= require('clean-webpack-plugin');
+const { CleanWebpackPlugin } = require('clean-webpack-plugin');
 
 module.exports = {
   mode: 'development',
+  context: path.resolve(__dirname, 'src'),
   entry: {
-    main: './src/index.js',
-    stat: './src/statistics.js'
+    main: './index.js',
+    stat: './statistics.js'
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
