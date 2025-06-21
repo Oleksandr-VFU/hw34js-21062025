@@ -29,7 +29,7 @@
 
 1. **Клонувати репозиторій:**
     ```bash
-    git clone <url-вашого-репозиторію>
+    git clone https://github.com/Oleksandr-VFU/hw34js-21062025.git
     cd home_work_34_js
     ```
 
