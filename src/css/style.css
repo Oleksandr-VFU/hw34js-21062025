@@ -1,6 +1,15 @@
+@import './fonts.css';
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: lightblue;
+    font-weight: 300;
+}
+
 h1 {
 text-transform: uppercase;
 text-align: center;
+font-weight: 900;
 }
 
 .container {
@@ -8,13 +17,12 @@ padding: 20px 40px;
 max-width: 1280px;
 margin-left: auto;
 margin-right: auto;
-background-color: lightblue;
 }
 
 .logo {
     background-image: url('../assets/webpack-training.png');
     background-size: cover;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     margin: 0 auto;
 }

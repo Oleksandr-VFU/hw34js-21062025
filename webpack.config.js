@@ -11,7 +11,7 @@ module.exports = {
   },
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: '[name].[contenthash].js',
+    filename: '[name].[hash].js',
   },
   plugins: [
     new HtmlWebpackPlugin({
@@ -27,7 +27,17 @@ module.exports = {
       },
       {
         test: /\.(png|svg|jpg|jpeg)$/i,
-        type: 'asset/resource'
+        type: 'asset/resource',
+        generator: {
+          filename: 'assets/images/[name].[hash][ext]'
+        }
+      },
+      {
+        test: /\.(ttf|otf|woff|woff2)$/i,
+        type: 'asset/resource',
+        generator: {
+          filename: 'assets/fonts/[name].[hash][ext]'
+        }
       }
     ]
   }

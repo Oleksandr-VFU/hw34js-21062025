@@ -10,13 +10,23 @@
 /******/ 	"use strict";
 /******/ 	var __webpack_modules__ = ({
 
+/***/ "../node_modules/css-loader/dist/cjs.js!./css/fonts.css":
+/*!**************************************************************!*\
+  !*** ../node_modules/css-loader/dist/cjs.js!./css/fonts.css ***!
+  \**************************************************************/
+/***/ ((module, __webpack_exports__, __webpack_require__) => {
+
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"../node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"../node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/getUrl.js */ \"../node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/OpenSans-Regular.ttf */ \"./assets/fonts/OpenSans-Regular.ttf\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_1___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-300.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-300.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_2___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-300italic.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-300italic.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_3___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-regular.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-regular.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_4___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-italic.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-italic.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_5___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-500.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-500.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_6___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-500italic.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-500italic.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_7___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-600.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-600.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_8___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-600italic.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-600italic.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_9___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-700.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-700.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_10___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-700italic.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-700italic.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_11___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-800.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-800.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_URL_IMPORT_12___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/fonts/open-sans-v43-cyrillic_latin-800italic.woff2 */ \"./assets/fonts/open-sans-v43-cyrillic_latin-800italic.woff2\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\nvar ___CSS_LOADER_URL_REPLACEMENT_1___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_1___);\nvar ___CSS_LOADER_URL_REPLACEMENT_2___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_2___);\nvar ___CSS_LOADER_URL_REPLACEMENT_3___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_3___);\nvar ___CSS_LOADER_URL_REPLACEMENT_4___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_4___);\nvar ___CSS_LOADER_URL_REPLACEMENT_5___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_5___);\nvar ___CSS_LOADER_URL_REPLACEMENT_6___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_6___);\nvar ___CSS_LOADER_URL_REPLACEMENT_7___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_7___);\nvar ___CSS_LOADER_URL_REPLACEMENT_8___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_8___);\nvar ___CSS_LOADER_URL_REPLACEMENT_9___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_9___);\nvar ___CSS_LOADER_URL_REPLACEMENT_10___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_10___);\nvar ___CSS_LOADER_URL_REPLACEMENT_11___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_11___);\nvar ___CSS_LOADER_URL_REPLACEMENT_12___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_12___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `/* latin */\r\n@font-face {\r\n    font-family: 'Open Sans';\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_0___}) format('truetype');\r\n}\r\n\r\n/* open-sans-300 - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: normal;\r\n    font-weight: 300;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_1___}) format('woff2');\r\n}\r\n/* open-sans-300italic - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: italic;\r\n    font-weight: 300;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_2___}) format('woff2');\r\n}\r\n/* open-sans-regular - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: normal;\r\n    font-weight: 400;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_3___}) format('woff2');\r\n}\r\n/* open-sans-italic - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: italic;\r\n    font-weight: 400;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_4___}) format('woff2');\r\n}\r\n/* open-sans-500 - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: normal;\r\n    font-weight: 500;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_5___}) format('woff2');\r\n}\r\n/* open-sans-500italic - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: italic;\r\n    font-weight: 500;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_6___}) format('woff2');\r\n}\r\n/* open-sans-600 - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: normal;\r\n    font-weight: 600;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_7___}) format('woff2');\r\n}\r\n/* open-sans-600italic - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: italic;\r\n    font-weight: 600;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_8___}) format('woff2');\r\n}\r\n/* open-sans-700 - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: normal;\r\n    font-weight: 700;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_9___}) format('woff2');\r\n}\r\n/* open-sans-700italic - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: italic;\r\n    font-weight: 700;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_10___}) format('woff2');\r\n}\r\n/* open-sans-800 - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: normal;\r\n    font-weight: 800;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_11___}) format('woff2');\r\n}\r\n/* open-sans-800italic - cyrillic_latin */\r\n@font-face {\r\n    font-display: swap;\r\n    font-family: 'Open Sans';\r\n    font-style: italic;\r\n    font-weight: 800;\r\n    src: url(${___CSS_LOADER_URL_REPLACEMENT_12___}) format('woff2');\r\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack:///./css/fonts.css?../node_modules/css-loader/dist/cjs.js");
+
+/***/ }),
+
 /***/ "../node_modules/css-loader/dist/cjs.js!./css/style.css":
 /*!**************************************************************!*\
   !*** ../node_modules/css-loader/dist/cjs.js!./css/style.css ***!
   \**************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"../node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"../node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/getUrl.js */ \"../node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2__);\n// Imports\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/webpack-training.png */ \"./assets/webpack-training.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_2___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `h1 {\r\ntext-transform: uppercase;\r\ntext-align: center;\r\n}\r\n\r\n.container {\r\npadding: 20px 40px;\r\nmax-width: 1280px;\r\nmargin-left: auto;\r\nmargin-right: auto;\r\nbackground-color: lightblue;\r\n}\r\n\r\n.logo {\r\n    background-image: url(${___CSS_LOADER_URL_REPLACEMENT_0___});\r\n    background-size: cover;\r\n    width: 300px;\r\n    height: 300px;\r\n    margin: 0 auto;\r\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack:///./css/style.css?../node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"../node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"../node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n/* harmony import */ var _node_modules_css_loader_dist_cjs_js_fonts_css__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! -!../../node_modules/css-loader/dist/cjs.js!./fonts.css */ \"../node_modules/css-loader/dist/cjs.js!./css/fonts.css\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/getUrl.js */ \"../node_modules/css-loader/dist/runtime/getUrl.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3__);\n// Imports\n\n\n\n\nvar ___CSS_LOADER_URL_IMPORT_0___ = new URL(/* asset import */ __webpack_require__(/*! ../assets/webpack-training.png */ \"./assets/webpack-training.png\"), __webpack_require__.b);\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n___CSS_LOADER_EXPORT___.i(_node_modules_css_loader_dist_cjs_js_fonts_css__WEBPACK_IMPORTED_MODULE_2__[\"default\"]);\nvar ___CSS_LOADER_URL_REPLACEMENT_0___ = _node_modules_css_loader_dist_runtime_getUrl_js__WEBPACK_IMPORTED_MODULE_3___default()(___CSS_LOADER_URL_IMPORT_0___);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, `body {\r\n    font-family: 'Open Sans', sans-serif;\r\n    background-color: lightblue;\r\n    font-weight: 300;\r\n}\r\n\r\nh1 {\r\ntext-transform: uppercase;\r\ntext-align: center;\r\nfont-weight: 900;\r\n}\r\n\r\n.container {\r\npadding: 20px 40px;\r\nmax-width: 1280px;\r\nmargin-left: auto;\r\nmargin-right: auto;\r\n}\r\n\r\n.logo {\r\n    background-image: url(${___CSS_LOADER_URL_REPLACEMENT_0___});\r\n    background-size: cover;\r\n    width: 250px;\r\n    height: 250px;\r\n    margin: 0 auto;\r\n}`, \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack:///./css/style.css?../node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -120,13 +130,143 @@ eval("module.exports = /*#__PURE__*/JSON.parse('{\"firstName\":\"Олексан�
 
 /***/ }),
 
+/***/ "./assets/fonts/OpenSans-Regular.ttf":
+/*!*******************************************!*\
+  !*** ./assets/fonts/OpenSans-Regular.ttf ***!
+  \*******************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/OpenSans-Regular.dc3f4b1e33c31d9daff0.ttf\";\n\n//# sourceURL=webpack:///./assets/fonts/OpenSans-Regular.ttf?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-300.woff2":
+/*!*************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-300.woff2 ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-300.2e03f11bf7cfa0c8aa1b.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-300.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-300italic.woff2":
+/*!*******************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-300italic.woff2 ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-300italic.93f2e356783e7b7ad1d6.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-300italic.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-500.woff2":
+/*!*************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-500.woff2 ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-500.ed716f5c061a442d4b4d.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-500.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-500italic.woff2":
+/*!*******************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-500italic.woff2 ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-500italic.450aca6a73d05863f5f7.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-500italic.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-600.woff2":
+/*!*************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-600.woff2 ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-600.86fe0e16d97e35837167.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-600.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-600italic.woff2":
+/*!*******************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-600italic.woff2 ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-600italic.8528054e7e34a65a1c05.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-600italic.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-700.woff2":
+/*!*************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-700.woff2 ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-700.6a081769865969f0aec6.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-700.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-700italic.woff2":
+/*!*******************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-700italic.woff2 ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-700italic.e39909643ce352aaec9e.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-700italic.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-800.woff2":
+/*!*************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-800.woff2 ***!
+  \*************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-800.e2ad101e017db5543d74.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-800.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-800italic.woff2":
+/*!*******************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-800italic.woff2 ***!
+  \*******************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-800italic.091bc4ac2ac59b2d8eac.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-800italic.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-italic.woff2":
+/*!****************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-italic.woff2 ***!
+  \****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-italic.a38d04c7327fc47596ff.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-italic.woff2?");
+
+/***/ }),
+
+/***/ "./assets/fonts/open-sans-v43-cyrillic_latin-regular.woff2":
+/*!*****************************************************************!*\
+  !*** ./assets/fonts/open-sans-v43-cyrillic_latin-regular.woff2 ***!
+  \*****************************************************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"assets/fonts/open-sans-v43-cyrillic_latin-regular.f21f1828673cfffe0f94.woff2\";\n\n//# sourceURL=webpack:///./assets/fonts/open-sans-v43-cyrillic_latin-regular.woff2?");
+
+/***/ }),
+
 /***/ "./assets/webpack-training.png":
 /*!*************************************!*\
   !*** ./assets/webpack-training.png ***!
   \*************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("module.exports = __webpack_require__.p + \"5ee32b449f034f943c71.png\";\n\n//# sourceURL=webpack:///./assets/webpack-training.png?");
+eval("module.exports = __webpack_require__.p + \"assets/images/webpack-training.9d61e12c14d5792717f1.png\";\n\n//# sourceURL=webpack:///./assets/webpack-training.png?");
 
 /***/ }),
 
