@@ -1,7 +1,7 @@
-import './css/style.css'
-import Post from './post.js'
-import json from './assets/data.json'
-import logo from './assets/webpack-training.png'
+import '@css/style.css'
+import Post from '@model/post.js'
+import json from '@assets/data.json'
+import logo from '@assets/webpack-training.png'
 
 const post = new Post('Webpack Post Title', logo )
 

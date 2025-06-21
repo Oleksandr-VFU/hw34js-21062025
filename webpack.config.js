@@ -13,6 +13,15 @@ module.exports = {
     path: path.resolve(__dirname, 'dist'),
     filename: '[name].[hash].js',
   },
+  resolve: {
+    extensions: ['.js', '.json', '.png', '.jsx', '.ts', '.tsx'],
+    alias: {
+      '@': path.resolve(__dirname, 'src'),
+      '@model': path.resolve(__dirname, 'src/model'),
+      '@assets': path.resolve(__dirname, 'src/assets'),
+      '@css': path.resolve(__dirname, 'src/css')
+    }
+  },
   plugins: [
     new HtmlWebpackPlugin({
         template: 'index.html'
