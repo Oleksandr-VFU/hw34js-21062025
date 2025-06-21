@@ -20,11 +20,11 @@ module.exports = {
       '@model': path.resolve(__dirname, 'src/model'),
       '@assets': path.resolve(__dirname, 'src/assets'),
       '@css': path.resolve(__dirname, 'src/css')
-    },
-    optimization: {
-      splitChunks: {
-        chunks: 'all'
-      }
+    }
+  },
+  optimization: {
+    splitChunks: {
+      chunks: 'all'
     }
   },
   plugins: [
